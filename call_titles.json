@@ -1,0 +1,34 @@
+[
+  {
+    "call_title": "PC issue",
+    "text": "any type of software or hardware issue related to computer or laptop"
+  },
+  {
+    "call_title": "Login Issue - Account Locked",
+    "text": "account issue login failed account locked unlock needed"
+  },
+  {
+    "call_title": "App Crash - Technical Error",
+    "text": "technical issue app crash error while using application"
+  },
+  {
+    "call_title": "VPN issue",
+    "text": "network issue connectivity problem unable to connect to internet"
+  },
+  {
+    "call_title": "Password Reset Request",
+    "text": "password issue reset request forgot password need assistance"
+  },
+  {
+    "call_title":"New Domain ID creation request",
+    "text":"new domain id creation request for new employee onboarding"
+  },
+  {
+    "call_title":"New gate pass request",
+    "text":"new gate pass request for employee or visitor access to premises"
+  },
+  {
+    "call_title":"ID Card not accessing",
+    "text":"ID card not accessing for unregistered employee or visitor access to premises"
+  }
+]
